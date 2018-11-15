@@ -1,0 +1,36 @@
+called: C:\cygwin64\bin\g++.exe
+	C:\Users\Diego\Documents\CS 798\Assigment_2\Netbeans Assigment_2
+	C:\cygwin64\bin\g++.exe
+	-O3
+	-g
+	-mrtm
+	-fopenmp
+	-o
+	benchmark_set.out
+	benchmark_set.cpp
+	-lpthread
+
+called: C:\cygwin64\bin\g++.exe
+	C:\Users\Diego\Documents\CS 798\Assigment_2\Netbeans Assigment_2
+	C:\cygwin64\bin\g++.exe
+	-O3
+	-g
+	-mrtm
+	-fopenmp
+	-o
+	htm_hello_world.out
+	htm_hello_world.cpp
+	-lpthread
+
+called: C:\cygwin64\bin\g++.exe
+	C:\Users\Diego\Documents\CS 798\Assigment_2\Netbeans Assigment_2
+	C:\cygwin64\bin\g++.exe
+	-O3
+	-g
+	-mrtm
+	-fopenmp
+	-o
+	benchmark_kcas.out
+	benchmark_kcas.cpp
+	-lpthread
+

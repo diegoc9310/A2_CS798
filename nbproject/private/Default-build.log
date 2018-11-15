@@ -1,0 +1,3 @@
+g++ -O3 -g -mrtm -fopenmp -o benchmark_set.out benchmark_set.cpp -lpthread
+g++ -O3 -g -mrtm -fopenmp -o htm_hello_world.out htm_hello_world.cpp -lpthread
+g++ -O3 -g -mrtm -fopenmp -o benchmark_kcas.out benchmark_kcas.cpp -lpthread
